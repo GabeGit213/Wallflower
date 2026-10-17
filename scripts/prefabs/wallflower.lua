@@ -55,6 +55,7 @@ local common_postinit = function(inst)
 	-- Recipe-restriction tag for the Monocle/Brush's AddCharacterRecipe builder_tag (DST does
 	-- not auto-tag a player with their own prefab name, so this has to be added explicitly).
 	inst:AddTag("wallflower")
+	inst.AnimState:SetScale(1.3, 1.3)
 end
 
 -- This initializes for the server only. Components are added here.
