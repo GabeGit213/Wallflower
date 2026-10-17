@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-ingame.png" alt="Wallflower standing next to Wilson in-game" width="85%">
+  <img src="githubassets/screenshot-ingame.png" alt="Wallflower standing next to Wilson in-game" width="85%">
 </p>
 
 ---
@@ -27,7 +27,7 @@ She's an artist, and a weak fighter. Her whole kit revolves around **observing**
 <table>
   <tr>
     <td align="center" width="35%">
-      <img src="assets/character-preview.png" alt="Wallflower character sprite" width="220"><br>
+      <img src="githubassets/character-preview.png" alt="Wallflower character sprite" width="220"><br>
       <sub>Wallflower's sprite</sub>
     </td>
     <td valign="top">
