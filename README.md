@@ -172,29 +172,29 @@ Tips:
 - [x] Warrior caps, lifespans, and save/load support
 - [x] Weaker-fighter balancing (0.75× damage, softer Brush)
 - [x] Wallflower's character art drawn and imported
+- [x] Save-slot portrait, minimap icon, and HUD avatars
 
 ### 🔧 In progress
 
-- [ ] Fine-tune character size and scale in-game
+- [ ] Character-select screen portraits, silhouette, and name graphics
+- [ ] Fine-tune character assets position, size and scale in-game
+- [ ] Character-select title, quote, and description
+- [ ] Custom speech lines (`speech_wallflower.lua`)
 
 ### 📝 To do
 
 - [ ] Ghost form art
-- [ ] Character-select screen portraits, silhouette, and name graphics
-- [ ] Save-slot portrait, minimap icon, and HUD avatars
-- [ ] Custom speech lines (`speech_wallflower.lua`)
-- [ ] Character-select title, quote, and description
 - [ ] Final crafting recipes for the Monocle and Brush
 - [ ] Custom art for the Monocle and Brush (currently reusing the Gardeneer Hat and Spear)
 - [ ] Custom inventory icons for the Monocle and Brush
 - [ ] Icons for the Summon Warrior menu (only Bee has one so far)
-- [ ] Rename the compiled build from `esctemplate` to `wallflower`
 - [ ] Steam Workshop release
 
 ### 💭 Maybe someday
 
 - [ ] Sketchy, crayon-style reskins of the Doodle Warriors, so they look like her drawings
 - [ ] Further balance tuning of Inspiration costs and warrior stats
+- [ ] Rename the compiled build from `esctemplate` to `wallflower`
 
 ---
 
@@ -216,4 +216,4 @@ Bug reports, feedback, and ideas are welcome. Feel free to open an [issue](../..
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE). *(Swap this for whichever license you prefer, and add a `LICENSE` file to the repo.)*
+Released under the [Klei License](LICENSE).
